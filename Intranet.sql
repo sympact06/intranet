@@ -90,6 +90,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `username`, `password`, `name`, `role`, `rank`, `last_login`) VALUES
 (3, 'Olivier', '$2y$10$h0zGo46UB/Yw9u4BHatBl..7nQx5Uxtjx81QfWWPWM6WoBlneEW1K', 'Olivier Flentge', 'admin', 'Developer', '2021-01-29'),
+(3, 'admin', '$2y$10$4F0vA6oBM7QrHCv1ivCNbepjg8G4IXN7QTmId/eFBo/MXfwmNkvOy', 'Admin', 'admin', 'Admin', '2021-01-29'),
 (7, 'Tim', '$2y$10$4F0vA6oBM7QrHCv1ivCNbepjg8G4IXN7QTmId/eFBo/MXfwmNkvOy', 'Tim Davids', 'admin', 'Developer', '2021-01-29');
 
 -- --------------------------------------------------------
