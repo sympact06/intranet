@@ -36,5 +36,5 @@ Username: `admin`
 
 Password: `1234`
 
-# How to make someone a admin?
+# How to make someone an admin?
 > Go to your database and the table "users" You will see there a group called "roles". Please edit the value to `admin` and not `users`
