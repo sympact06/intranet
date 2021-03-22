@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> Intranet V1. It is builed by SympactDev and Arcti (Frontend is QBus Framework)
+> Intranet V1. It is builded by SympactDev and Arcti (Frontend is QBus Framework)
 
 
 
